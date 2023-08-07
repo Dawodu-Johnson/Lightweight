@@ -1,0 +1,11 @@
+# Calculate factorial of a number
+
+declare number = 4
+declare factorial = 1
+declare i = 1
+
+while i <= number {
+    factorial = factorial * i
+    i = i + 1
+}
+
